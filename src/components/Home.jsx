@@ -16,7 +16,7 @@ const Home = () => {
        <a href="mailto:anilyadav6803@gmail.com"><button className="text-white w-[136px] h-[54px] px-7 rounded-xl py-[18px] bg-green-700 justify-start items-start gap-2.5 inline-flex">Email me</button></a>
       <div className="mt-3 flex  ">
       <MdOutlineFileDownload color="white " className="w-[25px] h-[25px] cursor-pointer "/>
-      <a href="https://drive.google.com/file/d/1tzflIoallnLT4NsdgXbyWjHC7uCulrvJ/view?usp=drive_link"><button className="text-zinc-500 text- font-bold font-['Inter'] leading-[18px]">Download CV</button></a>
+      <a href="https://drive.google.com/file/d/1sOKLYe_Y9PRGVum_BCfZi8iVMTh2QxR5/view?usp=sharing"><button className="text-zinc-500 text- font-bold font-['Inter'] leading-[18px]">Download CV</button></a>
       </div>
     </div>
    </div>

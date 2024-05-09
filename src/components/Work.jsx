@@ -3,6 +3,7 @@ import { GoArrowUpRight } from "react-icons/go";
 import hoobank from "../assets/hoobank.png";
 import rozar from "../assets/rozar.png";
 import sound from "../assets/sound.png";
+import gallery from "../assets/gallery.png"
 const Work = () => {
   return (
     <section className="w-full h-fulll bg-zinc-800">
@@ -80,6 +81,25 @@ const Work = () => {
               soundDzing(under process)
             </h1>
             <a href="https://github.com/anilyadav6803/SoundDZing">
+              <div className="inline-flex">
+                <h3 className="text-green-700 text-xl font-medium font-['Inter']">
+                  See project
+                </h3>
+                <GoArrowUpRight className="text-green-700 h-6 w-6  " />
+              </div>
+            </a>
+          </a>
+        </div>
+        <div className="p-3">
+          <a href="https://github.com/anilyadav6803/My_studio">
+            <img
+              src={gallery}
+              className="w-[400px] h-[268px] md:w-[550px] md:h-[368px] bg-black bg-opacity-20"
+            />
+            <h1 className="text-white text-[28px] font-bold font-['Inter'] ">
+              Photo Gallery
+            </h1>
+            <a href="https://github.com/anilyadav6803/My_studio">
               <div className="inline-flex">
                 <h3 className="text-green-700 text-xl font-medium font-['Inter']">
                   See project
