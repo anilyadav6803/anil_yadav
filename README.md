@@ -1,4 +1,5 @@
 # React + Vite
+Welcome to my personal portfolio! As a passionate front-end web developer, I have created this portfolio using the  React, Node.js and tailwind css
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
